@@ -1,7 +1,7 @@
 # People's Subway Transportantion Experience in Lanzhou
 Courea's assignments about an interview about transportation
 
-##Setup
+## Setup
 * The interview location is in my home at Lanzhou, China.
 * THe interviewee is my friend, Axino.
 * The information I want to clean is the people's subway transportantion experience in Lanzhou. 
@@ -11,10 +11,10 @@ Courea's assignments about an interview about transportation
 3. Who am I and what is the theise of this interview.
 4. To make sure interviewee openes mind and could answer randomly
 
-##Introduction
+## Introduction
 Hey, Axino, I invite you here to take an interview, because I want to learn about user's usability experience of public subway surveys in Lanzhou. And you are an university here in Lanzhou, So I think you are a suitable interviewee for this task. And I really appreciate for your coming.
 
-##Main Interview Questions
+## Main Interview Questions
 1. Is this subway the only public transportation for you to use?
 2. Did you take subway last week? and how often did you take subway per month?
 3. How long did you wait for the subway last time you take it?
